@@ -1,5 +1,5 @@
 {
-  "run_id": "132f91ae648243ca84c29d2781c68568",
+  "run_id": "b7bd1457a0134f5794c17ad8f88bbed1",
   "best_model": "logistic_regression",
   "metrics": {
     "logistic_regression": {
